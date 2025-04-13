@@ -1,1 +1,1 @@
-"print('hello physics')" 
+print('hello physics')
